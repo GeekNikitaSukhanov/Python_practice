@@ -1,0 +1,10 @@
+John 25000
+Steve 15000
+Andrew 34000
+Bill 74000
+Jack 5000
+Mary 12000
+Claire 50000
+Ivan 7000
+Dean 8000
+Last 4500
